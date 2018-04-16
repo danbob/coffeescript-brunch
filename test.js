@@ -3,7 +3,7 @@
 const expect = require('chai').expect;
 const CoffeeCompiler = require('./');
 
-describe('coffee-script-brunch', () => {
+describe('coffeescript-brunch', () => {
   const path = 'file.coffee';
   let plugin;
 
